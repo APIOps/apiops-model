@@ -1,4 +1,4 @@
-# APIOps Design Process
+# APIOps Design and Maintenance Model
 
 ![](https://raw.githubusercontent.com/APIOps/apiops-design-process/master/images/apiops-design-process.png)
 
